@@ -1,0 +1,73 @@
+﻿  BankSystemV2.cpp
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(164,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(169,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(231,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(305,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(337,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(434,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(478,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(566,13): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsString.h(572,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsUtility.h(241,11): warning C4305: 'return': truncation from 'int' to 'char'
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsUtility.h(241,11): warning C4309: 'return': truncation of constant value
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsUser.h(189,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystemV2.cpp')
+      C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsUser.h(165,12):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(204,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'BankSystemV2.cpp')
+      C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(180,12):
+      see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(32,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(409,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(414,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(426,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsTotalBalance.h(57,85): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsTransferScreen.h(47,56): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsTransferScreen.h(47,56): warning C4244:         with
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsTransferScreen.h(47,56): warning C4244:         [
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsTransferScreen.h(47,56): warning C4244:             T=double
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsTransferScreen.h(47,56): warning C4244:         ]
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsCurencyob.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'BankSystemV2.cpp')
+  
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(358,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsUser.h(347,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\clsBankClient.h(429,1): warning C4715: 'clsBankClient::WithDraw': not all control paths return a value
+  BankSystemV2.vcxproj -> C:\Users\mkiss\OneDrive\Bureau\BankSystemV2\BankSystemV2\x64\Debug\BankSystemV2.exe
