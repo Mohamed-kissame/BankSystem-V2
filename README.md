@@ -1,29 +1,29 @@
 # BankSystem-V2
-A modern banking system built in C++ with Object-Oriented Programming (OOP) principles, featuring secure authentication, account management, transactions, and currency exchange functionalities.
-🚀 Features
+A modern banking system built in C++ with Object-Oriented Programming (OOP) principles, featuring secure authentication, account management, transactions, and currency exchange functionalities.<br>
+<h1>🚀 Features</h1><br>
 🔹 Core Banking Functions
-
-✔️ Add, delete, and update clients
-✔️ Deposit and withdraw money
-✔️ Transfer funds between accounts
+<br>
+✔️ Add, delete, and update clients<br>
+✔️ Deposit and withdraw money<br>
+✔️ Transfer funds between accounts<br>
 🔹 Authentication & Security
-
-✔️ Login & Registration System with encrypted password storage
-✔️ Admin-controlled permissions system
+<br>
+✔️ Login & Registration System with encrypted password storage<br>
+✔️ Admin-controlled permissions system<br>
 🔹 Financial & Currency Management
-
-✔️ Currency Exchange System
+<br>
+✔️ Currency Exchange System<br>
 
     Find and display exchange rates
     Update currency rates manually
     Perform currency conversions
 
 🔹 Additional Enhancements
-
-✔️ OOP Refactoring – Clean and maintainable architecture
-✔️ Date Display – Visible on all screens
-✔️ Template Functions – Used in InputValide library for easier overloading
-💻 Installation & Usage
+<br>
+✔️ OOP Refactoring – Clean and maintainable architecture<br>
+✔️ Date Display – Visible on all screens<br>
+✔️ Template Functions – Used in InputValide library for easier overloading<br>
+💻 Installation & Usage<br>
 
     Clone the repository:
 
@@ -32,9 +32,9 @@ A modern banking system built in C++ with Object-Oriented Programming (OOP) prin
     Open the project in your C++ development environment (Visual Studio recommended).
     Compile and run the program.
 
-🔑 Default Admin Credentials
+🔑 Default Admin Credentials<br>
 
-To log in and test the system, use:
+To log in and test the system, use:<br>
 
     Username: Admin
     Password: 1234
