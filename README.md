@@ -2,16 +2,16 @@
 A modern banking system built in C++ with Object-Oriented Programming (OOP) principles, featuring secure authentication, account management, transactions, and currency exchange functionalities.<br>
 <h1>🚀 Features</h1><br>
 🔹 Core Banking Functions
-<br>
+<br><br>
 ✔️ Add, delete, and update clients<br>
 ✔️ Deposit and withdraw money<br>
-✔️ Transfer funds between accounts<br>
+✔️ Transfer funds between accounts<br><br>
 🔹 Authentication & Security
-<br>
+<br><br>
 ✔️ Login & Registration System with encrypted password storage<br>
-✔️ Admin-controlled permissions system<br>
+✔️ Admin-controlled permissions system<br><br>
 🔹 Financial & Currency Management
-<br>
+<br><br>
 ✔️ Currency Exchange System<br>
 
     Find and display exchange rates
@@ -19,10 +19,10 @@ A modern banking system built in C++ with Object-Oriented Programming (OOP) prin
     Perform currency conversions
 
 🔹 Additional Enhancements
-<br>
+<br><br>
 ✔️ OOP Refactoring – Clean and maintainable architecture<br>
 ✔️ Date Display – Visible on all screens<br>
-✔️ Template Functions – Used in InputValide library for easier overloading<br>
+✔️ Template Functions – Used in InputValide library for easier overloading<br><br>
 💻 Installation & Usage<br>
 
     Clone the repository:
